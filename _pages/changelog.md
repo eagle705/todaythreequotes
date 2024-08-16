@@ -3,10 +3,10 @@ layout: page
 title: What's New
 include_in_header: true
 ---
-
+<!-- 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
-
+Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown. -->
+<!-- 
 <br>
 
 ### `Latest`
@@ -33,13 +33,29 @@ Abnormal and formidable against much the before well improper more spent far her
 <br>
 
 ________
-<br>
+<br> -->
 
 ### `Initial Release`
 # **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+Today's Three Quotes - Three Special Quotes Just for You
 
-<br>
+Looking for daily inspiration?
+"Today's Three Quotes" offers you three unique quotes every day, specially curated just for you. This app, featuring beautiful quotes and images selected by AI, provides a moment of peace and vitality in your busy life.
+
+Key Features:
+
+Three Daily Quotes: Each day, three different quotes make your day special.
+AI Quote Images: Enjoy visually stunning AI-generated images that accompany each quote.
+Notification Feature: Receive your daily quotes at your preferred time.
+Favorites: Save your favorite quotes and revisit them anytime.
+Sharing Feature: Easily share inspiring quotes with friends on social media.
+Why Choose "Today's Three Quotes"?
+
+Inspiration and Motivation: Receive deep inspiration in a short time, even on the busiest days.
+Simple Interface: An intuitive design that anyone can use with ease.
+Personalized Experience: Enjoy fresh quotes and images daily, ensuring the experience never gets dull.
+Build a better version of yourself each day with "Today's Three Quotes." Download now and start your mornings with special quotes every day!
+<!-- <br>
 
 ## **Version 1.1**
 Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
@@ -60,6 +76,6 @@ That wow robin one and gosh audibly darn that variously less across softly awake
 
 #### Bug Fixes
 - Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately. -->
 
 <br>
