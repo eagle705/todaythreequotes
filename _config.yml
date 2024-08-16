@@ -44,9 +44,9 @@ features                                  :
     description                           : Anytime Anywhere, Being with daily quotes
     fontawesome_icon_name                 : mobile
 
-  # - title                                 : Video Support
-  #   description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-  #   fontawesome_icon_name                 : play-circle
+  - title                                 : User Support
+    description                           : Feel free to ask us any question via Email (joshuayoon705@gmail.com)
+    fontawesome_icon_name                 : play-circle
 
   # - title                                 : Automatic Icon and Metadata
   #   description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.

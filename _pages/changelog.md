@@ -42,7 +42,7 @@ Today's Three Quotes - Three Special Quotes Just for You
 Looking for daily inspiration?
 "Today's Three Quotes" offers you three unique quotes every day, specially curated just for you. This app, featuring beautiful quotes and images selected by AI, provides a moment of peace and vitality in your busy life.
 
-Key Features:
+#### Key Features:
 
 Three Daily Quotes: Each day, three different quotes make your day special.
 AI Quote Images: Enjoy visually stunning AI-generated images that accompany each quote.
@@ -55,27 +55,4 @@ Inspiration and Motivation: Receive deep inspiration in a short time, even on th
 Simple Interface: An intuitive design that anyone can use with ease.
 Personalized Experience: Enjoy fresh quotes and images daily, ensuring the experience never gets dull.
 Build a better version of yourself each day with "Today's Three Quotes." Download now and start your mornings with special quotes every day!
-<!-- <br>
-
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately. -->
-
 <br>
